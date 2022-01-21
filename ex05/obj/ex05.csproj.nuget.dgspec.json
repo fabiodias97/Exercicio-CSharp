@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\AvaliacaoFacilSpider\\AvaliacaoFacilSpider.csproj": {}
+    "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\ex05\\ex05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\AvaliacaoFacilSpider\\AvaliacaoFacilSpider.csproj": {
+    "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\ex05\\ex05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\AvaliacaoFacilSpider\\AvaliacaoFacilSpider.csproj",
-        "projectName": "AvaliacaoFacilSpider",
-        "projectPath": "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\AvaliacaoFacilSpider\\AvaliacaoFacilSpider.csproj",
+        "projectUniqueName": "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\ex05\\ex05.csproj",
+        "projectName": "ex05",
+        "projectPath": "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\ex05\\ex05.csproj",
         "packagesPath": "C:\\Users\\fabio.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\AvaliacaoFacilSpider\\obj\\",
+        "outputPath": "C:\\Users\\fabio.dias\\Documents\\ATIVIDADES\\C#\\Exercicio-CSharp\\ex05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",

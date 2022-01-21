@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Ex04
+namespace ex04
 {
-    class ex04
+    class Exercicio04
     {
         enum diaSemana
             {

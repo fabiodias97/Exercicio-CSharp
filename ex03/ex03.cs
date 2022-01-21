@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Ex03
+namespace ex03
 {
-    class ex03
+    class Exercicio03
     {
         static void Main(string[] args)
         {   

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "AvaliacaoFacilSpider/1.0.0": {
+      "ex05/1.0.0": {
         "runtime": {
-          "AvaliacaoFacilSpider.dll": {}
+          "ex05.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AvaliacaoFacilSpider/1.0.0": {
+    "ex05/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
