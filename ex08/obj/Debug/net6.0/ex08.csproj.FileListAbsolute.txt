@@ -1,0 +1,15 @@
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\bin\Debug\net6.0\ex08.exe
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\bin\Debug\net6.0\ex08.deps.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\bin\Debug\net6.0\ex08.runtimeconfig.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\bin\Debug\net6.0\ex08.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\bin\Debug\net6.0\ref\ex08.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\bin\Debug\net6.0\ex08.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.csproj.AssemblyReference.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.AssemblyInfoInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.AssemblyInfo.cs
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.csproj.CoreCompileInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ref\ex08.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex08\obj\Debug\net6.0\ex08.genruntimeconfig.cache
