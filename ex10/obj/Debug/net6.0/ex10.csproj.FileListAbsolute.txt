@@ -1,0 +1,15 @@
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.csproj.AssemblyReference.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.AssemblyInfoInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.AssemblyInfo.cs
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.csproj.CoreCompileInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\bin\Debug\net6.0\ex10.exe
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\bin\Debug\net6.0\ex10.deps.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\bin\Debug\net6.0\ex10.runtimeconfig.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\bin\Debug\net6.0\ex10.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\bin\Debug\net6.0\ref\ex10.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\bin\Debug\net6.0\ex10.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ref\ex10.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex10\obj\Debug\net6.0\ex10.genruntimeconfig.cache
