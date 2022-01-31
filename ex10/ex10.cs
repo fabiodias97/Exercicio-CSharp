@@ -8,8 +8,8 @@ namespace ex10
         { //TRABALHANDO COM ESTRUTURA DE REPETIÇÃO "WHILE" E "DO WHILE" 
             
             ////////////// WHILE ///////////////////////////////////////
-            int password= 123;
-            int passUser;
+            string password= "123";
+            string passUser="999";
             int num=0;
             while(num<10)
             {
@@ -21,7 +21,7 @@ namespace ex10
             do{
                 Console.Clear();
                 Console.Write("Informe sua Senha: ");
-                passUser = int.Parse(Console.ReadLine());
+                passUser = Console.ReadLine();
             }while(password != passUser);
                 Console.WriteLine("Autorizado");
 
