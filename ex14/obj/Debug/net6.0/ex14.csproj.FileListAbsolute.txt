@@ -3,3 +3,13 @@ C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6
 C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ex14.AssemblyInfoInputs.cache
 C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ex14.AssemblyInfo.cs
 C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ex14.csproj.CoreCompileInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\bin\Debug\net6.0\ex14.exe
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\bin\Debug\net6.0\ex14.deps.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\bin\Debug\net6.0\ex14.runtimeconfig.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\bin\Debug\net6.0\ex14.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\bin\Debug\net6.0\ref\ex14.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\bin\Debug\net6.0\ex14.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ex14.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ref\ex14.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ex14.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex14\obj\Debug\net6.0\ex14.genruntimeconfig.cache

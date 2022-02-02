@@ -6,7 +6,7 @@ namespace ex14
     {
         static void Main()
         {
-            int[] vetor1 = new int[5];
+            /*int[] vetor1 = new int[5];
 
             Random random = new Random();
             for (int i = 0; i < vetor1.length; i++)
@@ -18,7 +18,13 @@ namespace ex14
             foreach (int n in vetor1)
             {
                 Console.write(n);
-            }
+            }*/
+            int num = 10;
+            dobrar(ref num);
+            Console.Write(num);
+        }
+        static void dobrar(ref int valor1){
+            valor1*=2;
         }
     }
 }
