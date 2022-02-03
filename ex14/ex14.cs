@@ -6,25 +6,18 @@ namespace ex14
     {
         static void Main()
         {
-            /*int[] vetor1 = new int[5];
-
-            Random random = new Random();
-            for (int i = 0; i < vetor1.length; i++)
-            {
-                vetor1[i] = random.Next(10);
-            }
-
-            Console.write("Elementos do Vetor 1")
-            foreach (int n in vetor1)
-            {
-                Console.write(n);
-            }*/
-            int num = 10;
-            dobrar(ref num);
-            Console.Write(num);
+            int res, men;
+            int num1 = 10;
+            int num2 = 30;
+            men = dobrar(num1, num2, out res);
+            Console.Write(men, res);
         }
-        static void dobrar(ref int valor1){
-            valor1*=2;
+        static void dobrar(int valor1, int valor2, out int resultado){
+            int sub, reslt;
+            sub = valor1 - valor2;
+            result = valor1 + valor2;
+            return sub;
+            return reslt;
         }
     }
 }
