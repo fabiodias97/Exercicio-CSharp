@@ -6,19 +6,19 @@ namespace Ex17
     {
         static public bool alerta;
         public string nome;
-        public Aluno(string n){
+        public Aluno(string n){  // Construtor Aluno 
             alerta=false;
             nome=n;
         }
-        public void info(){
+        public void info(){  // Método info
             Console.Write(nome);
             Console.WriteLine(alerta);
         }
     }
     class Ex17
     {
-        static void Main(){
-            Aluno a1=new Aluno("Fabio ");
+        static void Main(){  // Método Principal
+            Aluno a1=new Aluno("Fabio "); // Instânciando a Class Aluno
             Aluno a2=new Aluno("João ");
             Aluno a3=new Aluno("Mike ");
 
