@@ -1,0 +1,15 @@
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.csproj.AssemblyReference.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.AssemblyInfoInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.AssemblyInfo.cs
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.csproj.CoreCompileInputs.cache
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\bin\Debug\net6.0\ex19.exe
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\bin\Debug\net6.0\ex19.deps.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\bin\Debug\net6.0\ex19.runtimeconfig.json
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\bin\Debug\net6.0\ex19.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\bin\Debug\net6.0\ref\ex19.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\bin\Debug\net6.0\ex19.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ref\ex19.dll
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.pdb
+C:\Users\fabio.dias\Documents\ATIVIDADES\C#\Exercicio-CSharp\ex19\obj\Debug\net6.0\ex19.genruntimeconfig.cache
